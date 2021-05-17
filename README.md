@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Julie
+### Hi there 👋 
 
 [juliemoy.com](https://juliemoy.com)
 <!--
