@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-[juliemoy.com](https://juliemoy.com)
+👋 [juliemoy.com](https://juliemoy.com)
 <!--
 **juliemoy/juliemoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
